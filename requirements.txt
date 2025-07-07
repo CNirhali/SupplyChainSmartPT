@@ -1,0 +1,8 @@
+streamlit
+pandas
+openpyxl
+PyPDF2
+chromadb
+langchain
+llama-index
+streamlit-authenticator 
